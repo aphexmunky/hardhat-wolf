@@ -115,3 +115,9 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/solidity
 
+
+node_modules
+
+#Hardhat files
+cache
+artifacts
