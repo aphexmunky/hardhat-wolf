@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aphexmunky/hardhat-wolf/issues"
   },
-  "homepage": "https://github.com/aphexmunky/hardhat-wolf#readme"
+  "homepage": "https://github.com/aphexmunky/hardhat-wolf#readme",
+  "devDependencies": {
+    "hardhat": "^2.0.1"
+  }
 }
